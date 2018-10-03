@@ -2,7 +2,7 @@
 #19/09/18
 #Verkefni 4
 
-#froms sys import argv
+froms sys import argv
 
 from bottle import *
 import urllib.request, json
@@ -46,8 +46,8 @@ def villa(error):
     return "<h1 style = color:red>Þessi síða finnst ekki</h1>"
 
 
-run(host="localhost", port =8080, reloader=True, debug=True)
-#run(host='0.0.0.0*, port=os.environ.get('PORT')
+#run(host="localhost", port =8080, reloader=True, debug=True)
+run(host='0.0.0.0*, port=os.environ.get('PORT')
 
 
 
