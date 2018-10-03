@@ -1,0 +1,53 @@
+body{
+	background-color: pink;
+}
+
+header,footer{
+	background-color: purple;
+	color: white;
+}
+
+li {
+	background-color: purple;
+	color: white;
+	margin-bottom: 5px;
+
+}
+
+.box {
+	color: white;
+	background-color: purple;
+	margin: 1em;
+	text-align: center;
+	border-radius: 5px;
+
+
+}
+
+a {
+	color: white
+
+}
+
+img{
+	width: 90px;
+	height: 90px;
+	border-radius: 10px;
+}
+
+.myndir{
+	justify-content: center;
+}
+
+.table{
+	background-color: purple;
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+
+.white{
+	color: white;
+}
