@@ -1,1 +1,1 @@
-web: python ./M.py $PORT
+web: python ./M.py $port
