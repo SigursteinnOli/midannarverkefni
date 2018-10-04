@@ -2,7 +2,7 @@
 #19/09/18
 #Verkefni 4
 
-froms sys import argv
+from sys import argv
 
 from bottle import *
 import urllib.request, json
